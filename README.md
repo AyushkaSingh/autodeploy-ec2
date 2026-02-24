@@ -365,13 +365,6 @@ Verify:
 
 ---
 
-# Author
-
-**Ayushka Kumari**
-Cloud • DevOps • Full Stack
-
----
-
 # License
 
 MIT
